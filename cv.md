@@ -1,30 +1,31 @@
-# Alexey Polonevich
+## Alexey Polonevich
 **Junior Frontend Developer**
-***
 
-### Contact info
 ***
+### Contact info
 
 - **Email:** a.palanevich@gmail.com
-- **Telegram:** [@kobressia] (https://t.me/kobressia)
-- **GitHub:** [@kobressia] (https://github.com/kobressia)
-- **Linkedin:** [alexey-polonevich] (https://www.linkedin.com/in/alexey-polonevich/)
+- **Telegram:** [@kobressia](https://t.me/kobressia)
+- **GitHub:** [@kobressia](https://github.com/kobressia)
+- **Linkedin:** [alexey-polonevich](https://www.linkedin.com/in/alexey-polonevich/)
 
-### About
 ***
+### About
 
 Some info.
 
-### Skills
 ***
+### Skills
 
 - Some skills
 
-### Education
 ***
+### Education
 
-- **EHU, Design**/ The Degree Of Bachelor Of Design Studies
+- **EHU, Design**\
+The Degree Of Bachelor Of Design Studies
 
+***
 ### Languages
 
 - **Russian** - Native
