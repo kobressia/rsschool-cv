@@ -10,8 +10,8 @@
 
 ## Summary
 
-Student of JavaScript/Front-end program at RS School.
-Student of Computer Science program in EHU and EPAM School of Digital Engineering.
+Student of JavaScript/Front-end program at RS School.\
+Student of Computer Science program in EHU and EPAM School of Digital Engineering.\
 12 years of experience in gamedev as a Technical Designer and 2D Animator.
 
 ## Skills
