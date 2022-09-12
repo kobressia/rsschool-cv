@@ -1,4 +1,5 @@
-### Alexey Polonevich
+# Alexey Polonevich
+**JavaScript/Front-end Student**
 
 ## Contact Info
 
@@ -7,29 +8,29 @@
 - **GitHub:** [@kobressia](https://github.com/kobressia)
 - **Linkedin:** [alexey-polonevich](https://www.linkedin.com/in/alexey-polonevich/)
 
-## About Me
+## Summary
 
-Some info.
+Student of JavaScript/Front-end program at RS School.
+Student of Computer Science program in EHU and EPAM School of Digital Engineering.
+12 years of experience in gamedev as a Technical Designer and 2D Animator.
 
 ## Skills
 
-- Some skills
+- HTML5, CSS3
+- JavaScript Basics
+- Git, GitHub
+- VS Code
+- Adobe Photoshop
 
 ## Education
 
 - **EHU, Design**\
-The Degree Of Bachelor Of Design Studies
+Bachelor of Design Studies
+- **EHU, EPAM School of Digital Engineering, Computer Science**\
+Student of Computer Science Program
 
 ## Languages
 
 - **Russian** - Native
 - **Belarusian** - Native
 - **English** - B2
-
-# **Header Test** 1 Bold
-# Header Test 1
-## Header Test 2
-### Header Test 3
-#### Header Test 4
-##### Header Test 5
-###### Header Test 6
