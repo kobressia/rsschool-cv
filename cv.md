@@ -4,6 +4,7 @@
 ## Contact Info
 
 - **Email:** a.palanevich@gmail.com
+- **Discord:** kobressia#4790
 - **Telegram:** [@kobressia](https://t.me/kobressia)
 - **GitHub:** [@kobressia](https://github.com/kobressia)
 - **Linkedin:** [alexey-polonevich](https://www.linkedin.com/in/alexey-polonevich/)
